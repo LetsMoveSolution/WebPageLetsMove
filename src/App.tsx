@@ -10,7 +10,6 @@ import ContactForm from "./components/Contactus";
 function App() {
   return (
     <>
-      {" "}
       <Navbar />
       <Homepage />
       <ServicePage />
